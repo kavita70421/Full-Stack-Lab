@@ -11,7 +11,7 @@ A simple React Single Page Application demonstrating core SPA concepts with stat
 
 ## Demo
 
-🚀 **Live Demo**: [https://react-spa-demo.vercel.app](https://react-spa-demo.vercel.app)
+🚀 **Live Demo**: [https://full-stack-lab-alpha.vercel.app/](https://full-stack-lab-alpha.vercel.app/)
 
 ## Tech Stack
 
